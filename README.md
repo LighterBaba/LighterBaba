@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LighterBaba
+- 👋 Hi, I’m @Ishtiak Ahmed Ifty
 - 👀 I’m interested in Proffesional Cyber Sequrity & Ethical Hacking
 - 🌱 I’m currently learning ...Bachelor of technology in CSE (AI & ML)
 - 💞️ I’m looking to collaborate on ...
